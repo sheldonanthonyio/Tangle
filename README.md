@@ -1,7 +1,7 @@
 # Tangle
 <div align="center">
 <a href="https://appgallery.huawei.com/app/C106042971">
-  <img  align="center"  src="https://pbs.twimg.com/media/FTsrbttXwAAJkKG?format=jpg&name=small" alt="Tangle">
+  <img src="https://pbs.twimg.com/media/FTsrbttXwAAJkKG?format=jpg&name=large" alt="Tangle">
 </a>
 </div>  
 
