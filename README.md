@@ -5,7 +5,6 @@
 </a>
 </div>  
 
-<div style="color:white;">
 Tangle is a product that allows you to easily manage the security of PDF documents you own. The app allows you to set up the security you want to implement on your PDF documents, making them secure to send to external parties. The app applies security you want to implement and then allows you to share the secured document. Some of the features of the app are:
 * Password protect a PDF document 
 * Allow / Disallow assembly of a PDF document 
@@ -19,4 +18,3 @@ Tangle is a product that allows you to easily manage the security of PDF documen
 You can download the app from the Huawei App Gallery by
 <a href="https://appgallery.huawei.com/app/C106042971">clicking here...</a>
 or by scanning the barcode on the image.
-</div>
