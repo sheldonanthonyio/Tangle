@@ -13,5 +13,6 @@ Tangle is a product that allows you to easily manage the security of PDF documen
 * Allow / Disallow printing of a PDF document 
 * Allow / Disallow printing a degradable version of the document 
 * Share a secure version of the document 
+* Scan and protect a document
 
-Scan and protect a document (Currently A Work In Progress)  **Please note scan and protect is currently a work in progress...
+You can download the app from <a href="[https://heroku.com/deploy](https://appgallery.huawei.com/app/C106042971?sharePrepath=ag&locale=en_GB&source=appshare&subsource=C106042971&shareTo=com.google.android.apps.messaging&shareFrom=appmarket&shareIds=daca0d79f91e4b10afb10d677731e5fa_com.google.android.apps.messaging&callType=SHARE)">here...</a>
