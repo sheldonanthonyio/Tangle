@@ -15,6 +15,5 @@ Tangle is a product that allows you to easily manage the security of PDF documen
 * Share a secure version of the document 
 * Scan and protect a document
 
-You can download the app from the Huawei App Gallery by
-<a href="https://appgallery.huawei.com/app/C106042971">clicking here...</a>
-or by scanning the barcode on the image.
+You can download the latest version of the app available for Android devices by
+<a href="https://github.com/sheldonanthonyio/Tangle/raw/main/Tangle-23-v3.2.apk">clicking here...</a>
