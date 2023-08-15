@@ -1,12 +1,12 @@
 # Tangle
 <div align="center">
 <a href="https://github.com/sheldonanthonyio/Tangle/blob/main/Tangle-23-v3.2.apk?raw=true">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLtlejB5gWLn9A_7x9a6uC1uVJ96f4Zg9LOvUg-HnJoCukQCw2P65bcdiWsb67DYft48grCi2RmO_KjLLxDfpfJINejB9layuYz7tMpfmOXysV22ZEGmgvwwWFPch23pTnYyf_OPAMXOhXSFuk3CYQWRACO-nPM-zK3d2pSVxekqu8gki3k7ngpiK2uw/w640-h480/Tangle1.png" alt="Tangle">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg78C-8vrFzwdh-jB_UQYHy7v7fZzh4_0f67S4xOEixlXGp0oduZp6NJdIvAJ61XK08QNnLUrsFl0HgfWA-j5xc7FGhRYZrTzDXjIQmcY16WNnXXGzSx1fVylHPPlSjMGyPyQUIM1N--m1j1muU1r9cVnz7T_gyhaL0U0W91q4qDJoUEdf_Yu0A-MwScg/w640-h444/Tangle.png" alt="Tangle">
 </a>
 </div>  
 
-Tangle is a product that allows you to easily manage the security of PDF documents you own. The app allows you to set up the security you want to implement on your PDF documents, making them secure to send to external parties. The app applies security you want to implement and then allows you to share the secured document. Some of the features of the app are:
-* Password protect a pdf document 
+Tangle is a product that allows you to easily manage the security of PDF documents you own. The app allows you to set up the security you want to implement on your PDF documents, making them secure to send to external parties. The app applies the security you want to implement and then allows you to share the secured document. Some of the features of the app are:
+* Password protects a pdf document 
 * Allow / Disallow assembly of a pdf document 
 * Allow / Disallow extraction of a pdf document 
 * Allow / Disallow modification of a pdf document 
